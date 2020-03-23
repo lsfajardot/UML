@@ -18,16 +18,10 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 
 # Solución Planteada
 Haciendo uso de la herramienta de modelado StarUML, se plantea el modelado para el porblema presentado mediante la construcción de Modelos estructurales, Modelos Funcionales y Modelos de Interaccion, el desarrollo de los mismos se presenta a continuación.
-
  - Modelo Estructural: mediante la construccion del diagrama de clase, se puede observar la solución que se plantea para la necesidad que se busca suplir en la creacion de la plataforma web de concesionario de alta gama, mediante el uso de los patrones Builder y Prototype se obtiene el resultado presentado a continuación.
- 
- 
-
-
-
-Diagrama de casos de uso
-El diagrma de casosde uso refleja un despliegue de la pagina web para que el usuario pueda interactuar con ella, all tiene varias opciones a escoger lo que desencadena una serie de escenarios para cumplir con la peticion del usuario.
-
+ ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/0%20DiagramaClases.PNG)
+ - Modelo Funcional: mediante la construcción del diagrama de casos de uso, podemos observar la manera en la cual se realiza el despliegue de la pagina web, y de igual forma, la manera en que los usuarios interactuarian con la misma, mediante las decisiones que el usuario vaya tomando a traves de su navegación, encontrara una serie de nuevas opciones para cada una de la decisiones que este tome.
+ ![Diagrama_Casos_Uso](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/1%20CasosUso.PNG)
 
 
 Diagramas de secuencia
