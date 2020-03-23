@@ -34,7 +34,7 @@ Haciendo uso de la herramienta de modelado StarUML, se plantea el modelado para 
      ![Traer_Turbo](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/5%20Traer%20Turbo.PNG)
      - Traer Transmision: el usuario selecciona la transmisión del vehículo y recibe las estadísticas del mismo tanto para Manual como para automático.
      ![Traer_Transmision](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/6%20DiagramatraerTrasmision.png)
-     - Traer Carroceria: el usuario selecciona la carroceria entre las opciones de fibre de carbono y convencional, recibiendo las estadísticas del mismo.
+     - Traer Carroceria: el usuario selecciona la carroceria entre las opciones de fibra de carbono y convencional, recibiendo las estadísticas del mismo.
      ![Traer_Carroceria](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/7%20Carroceria%20Sequence%20Diagram.jpg)
      - Simulación: en esta seccion se realizan todas las pruebas de rendimiento del vehículo y en caso de ser necesario se realizan los ajustes correspondientes con las características del mismo.
      ![Simulacion](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/8%20Simulacion.PNG)
