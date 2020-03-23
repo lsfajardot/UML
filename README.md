@@ -36,10 +36,12 @@ Haciendo uso de la herramienta de modelado StarUML, se plantea el modelado para 
      ![Traer_Transmision](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/6%20DiagramatraerTrasmision.png)
      - Traer Carroceria: el usuario selecciona la transmisión del vehículo y recibe las estadísticas del mismo tanto para Manual como para automático.
      ![Traer_Carroceria](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/7%20Carroceria%20Sequence%20Diagram.jpg)
-   - Diagramas de Actividades:
      - Simulación: en esta seccion se realizan todas las pruebas de rendimiento del vehículo y en caso de ser necesario se realizan los ajustes correspondientes con las características del mismo.
      ![Simulacion](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/8%20Simulacion.PNG)
-     - Proceso Construcción del Vehículo: en esta seccion se presentan las actividades realizadas en todo el proceso de construccion del vehículo.
-     ![Construccion](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/9%20Construir%20Vehiculo.PNG)
+   - Diagramas de Actividades:
+     - Proceso de Construcción del Vehículo: en esta seccion se presentan las actividades realizadas en todo el proceso de construccion del vehículo.
+     ![Construccion_Proc](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/9%20Construir%20Vehiculo.PNG)
+     - Proceso de Simulación del Vehículo: en esta seccion se presentan las actividades realizadas en todo el proceso de la simulación del vehículo.
+     ![Simulacion_Proc](https://raw.githubusercontent.com/lsfajardot/UML/master/UML/10%20Simular%20Vehiculo.PNG)
 
 © 2020 GitHub, Inc.
